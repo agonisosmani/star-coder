@@ -1,0 +1,121 @@
+#navigation {
+	background-color:#D8D8D8; clear:both; padding:10px 20px; padding-left:0px;
+}
+
+#navigation ul {
+	width:100%; margin:0px; padding:0px; background-color:#D8D8D8;
+}
+
+#navigation ul li {
+	background-color:#D8D8D8; display:inline; 
+	}
+
+#navigation ul li a {
+	  font-weight:bold; padding:10px 20px; background-color:#D8D8D8;
+}
+
+#login {
+	float:right;
+}
+
+#login img {
+	width:16px; height:16px; padding:0px 10px 0px 0px;
+}
+
+
+#navigation a:link    { color:#000000; }
+#navigation a:visited { color:#000000; }
+#navigation a:active  { color:#000000; }
+#navigation a:hover   { color:#000000; background-color:#F3A410;}
+#navigation a:focus   { color:#000000; }
+
+#footer1	 a:link    { color:#ffffff; }
+#footer1 	 a:visited { color:#ffffff; }
+#footer1 	 a:active  { color:#ffffff; }
+#footer1 	 a:hover   { color:#3366CC; }
+#footer1 	 a:focus   { color:#ffffff;  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
