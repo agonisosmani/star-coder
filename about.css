@@ -1,0 +1,15 @@
+#header {
+	width: 60%; float:left;
+}
+
+#products img {
+	padding-top:50px; padding-left:25px; width:328px; height:260px;
+}
+
+#editable {
+	height:900px;
+}
+
+.video {
+	padding-left:30px;
+}
